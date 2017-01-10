@@ -1,5 +1,5 @@
 
-
+# this program identifies employees that have less rows in the first pivot table
 
 import os
 
